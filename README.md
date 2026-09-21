@@ -9,3 +9,19 @@ Here you'll find my solutions to various machine learning and deep learning prob
 TensorTonic is a platform where you can implement core algorithms of Machine Learning from scratch.
 
 This repository contains my personal solutions to these problems, automatically synchronized from the platform.
+
+<!-- tensortonic:start -->
+# Nikhileshwar reddy B's TensorTonic Solutions
+
+Verified machine learning implementations completed on [TensorTonic](https://www.tensortonic.com).
+
+<p align="center">
+  <img src="https://www.tensortonic.com/api/badge/bnikhileshwarreddy.svg" alt="TensorTonic Verified Solutions" width="100%" />
+</p>
+
+| Problem | Description | Link |
+|---|---|---|
+| Implement Scaled Dot-Product Attention | Implement batched scaled dot-product attention for self- and cross-attention with optional masks and stable softmax. | https://www.tensortonic.com/study-plans/cracking-inference/inference-scaled-dot-product-attention |
+
+View my verified ML profile: [TensorTonic profile](https://www.tensortonic.com/profile/bnikhileshwarreddy)
+<!-- tensortonic:end -->
